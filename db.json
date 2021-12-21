@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Miguel",
+      "empresa": "mikidev",
+      "email": "migueldue123@gmail.com",
+      "telefono": "940093770",
+      "notas": "Cliente busca comprar",
+      "id": 1
+    },
+    {
+      "nombre": "Paula",
+      "empresa": "Pau Constructora",
+      "email": "pau@correo.com",
+      "telefono": "12345678",
+      "notas": "Una clienta nueva",
+      "id": 3
+    },
+    {
+      "nombre": "Aylin",
+      "empresa": "LilinsDesign",
+      "email": "lilin@design.com",
+      "telefono": "975135468",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
